@@ -14,7 +14,7 @@ class Generator_example():
             num += 1
 
     def get_rows_numbered(self, fileName) -> List[tuple]:
-        ''' Please use infinite_sequence to output a list of tuples [(<row_id>, <row_content>)]'''
+        """ Please use infinite_sequence to output a list of tuples [(<row_id>, <row_content>)]"""
         gen = self.infinite_sequence()
 
         return [(next(gen), row) for row in self.get_row(fileName)]

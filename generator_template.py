@@ -9,5 +9,5 @@ class Generator_example():
         yield 0
 
     def get_rows_numbered(self, fileName):
-        ''' Please use infinite_sequence to output a list of tuples [(<row_id>, <row_content>)]'''
+        """ Please use infinite_sequence to output a list of tuples [(<row_id>, <row_content>)]"""
         return []
