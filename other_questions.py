@@ -1,5 +1,23 @@
+# Wstępne pytania:
+# Czy masz jakieś ciekawe projekty albo doświadczenia albo wiedze które uważasz że mogą być dużym plusem w tej roli?
+# Jakie projekty, jakie technologie używałeś?
+# Czy django albo flask albo fast api?
+# Czy scrapy
 
-# Junior:
+# django
+# middleware
+# sygnały
+# Q
+# translacje
+# DRF
+#
+#
+#
+#
+#
+# scrapowanie
+
+
 # Tuple vs List
 # Reverse a list
 # difference static method vsPython
@@ -9,16 +27,17 @@
 # Can you edit a tuple and what happened when you append to it
 #
 # Mid:
+# Decorator what is it and how to write them
 # Testing: unittest or pytest
-# Parametrize fixtures and patch
 # walrus operator
 # Typing for Dict[str, List]
-# Class A uses class B as a parameter in
+# Walrus operator
 
 # Senior:
+# Testing parametrize fixtures and patch
 # SOLID principles and explain at least one
-# Decorator what is it and how to write them
-# Walrus operator
+# What are the latest features in Python
+# Generator yield from and generator.send()
 # Generator yield from and generator.send()
 
 # Hardcore: Metaclasses
