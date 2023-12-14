@@ -19,8 +19,9 @@
 
 
 # Tuple vs List
+# jak instalujemy pakiety, czy znasz poetry?
 # Reverse a list
-# difference static method vsPython
+# difference static method vs class method Python
 # # .sort() vs sorted()
 # Join a list of strings
 # Mention as many string methods as you can
@@ -29,7 +30,6 @@
 # Mid:
 # Decorator what is it and how to write them
 # Testing: unittest or pytest
-# walrus operator
 # Typing for Dict[str, List]
 # Walrus operator
 
